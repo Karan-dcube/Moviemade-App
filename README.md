@@ -41,11 +41,11 @@ tmdb_api_key=YOUR_OWN_TMDB_KEY
 ## Screenshots
 <div style="dispaly:flex">
     <img src="https://raw.githubusercontent.com/michaelbel/Moviemade/master/screenshots/screen2.png" width="300" height="500">
-    <img src="screenshots/screen2.png" width="33%">
-    <img src="screenshots/screen3.png" width="33%">
-    <img src="screenshots/screen4.png" width="33%">
-    <img src="screenshots/screen5.png" width="33%">
-    <img src="screenshots/screen6.png" width="33%">
+    <img src="https://raw.githubusercontent.com/michaelbel/Moviemade/master/screenshots/screen1.png" width="300" height="500">
+     <img src="https://raw.githubusercontent.com/michaelbel/Moviemade/master/screenshots/screen3.png" width="300" height="500">
+    <img src="https://raw.githubusercontent.com/michaelbel/Moviemade/master/screenshots/screen4.png" width="300" height="500">
+     <img src="https://raw.githubusercontent.com/michaelbel/Moviemade/master/screenshots/screen5.png" width="300" height="500">
+    <img src="https://raw.githubusercontent.com/michaelbel/Moviemade/master/screenshots/screen6.png" width="300" height="500">
 </div>
 
 ## Demo video
