@@ -14,7 +14,7 @@
 
 <!------------------------------------------------------------------------------------------------------>
 <img src="screenshots/mockup2.png"/>
-<img src="https://raw.githubusercontent.com/michaelbel/Moviemade/master/screenshots/mockup2.png" width="700" height="400"/>
+<img src="https://raw.githubusercontent.com/michaelbel/Moviemade/master/screenshots/mockup2.png" width="900" height="500"/>
 
 Moviemade
 =
