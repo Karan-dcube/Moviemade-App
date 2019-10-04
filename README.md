@@ -13,7 +13,7 @@
 [kotlin-badge]:     https://img.shields.io/badge/Awesome-Kotlin-F18E33.svg
 
 <!------------------------------------------------------------------------------------------------------>
-<img src="screenshots/mockup2.png"/>
+
 <img src="https://raw.githubusercontent.com/michaelbel/Moviemade/master/screenshots/mockup2.png" width="900" height="500"/>
 
 Moviemade
@@ -70,7 +70,7 @@ If you find any problems or would like to suggest a feature, please feel free to
 
 ## License
 <a href="http://www.apache.org/licenses/LICENSE-2.0" target="_blank">
-  <img alt="Apache License 2.0" src="screenshots/apache.png" height="110"/>
+  
 </a>
 
     Copyright 2017 Michael Bely
